@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/concordion/concordion-timestamp-formatter-extension.svg?branch=master)](https://travis-ci.org/concordion/concordion-timestamp-formatter-extension)
+
 This [Concordion](http://www.concordion.org) extension reformats the footer of the Concordion output to show hours, minutes and seconds rather than milliseconds.
 
 The [demo project](http://github.com/concordion//concordion-timestamp-formatter-demo) demonstrates this extension.
