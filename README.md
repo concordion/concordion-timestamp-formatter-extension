@@ -2,8 +2,6 @@
 
 This [Concordion](http://www.concordion.org) extension reformats the footer of the Concordion output to show hours, minutes and seconds rather than milliseconds.
 
-The [demo project](http://github.com/concordion//concordion-timestamp-formatter-demo) demonstrates this extension.
-
 # Introduction
 
 A simple extension that reformats the footer of the Concordion output to show hours, minutes and seconds rather than milliseconds.
@@ -22,4 +20,3 @@ This extension currently has no configuration options. Feel free to suggest enha
 
 * [Specification](http://concordion.github.io/concordion-timestamp-formatter-extension/spec/TimestampFormatter.html)
 * [API](http://concordion.github.io/concordion-timestamp-formatter-extension/api/index.html)
-* [Demo project](http://github.com/concordion/concordion-timestamp-formatter-extension-demo)
