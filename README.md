@@ -2,6 +2,9 @@
 
 This [Concordion](http://www.concordion.org) extension reformats the footer of the Concordion output to show hours, minutes and seconds rather than milliseconds.
 
+# Installation
+The extension is available from [Maven Central](http://search.maven.org/#artifactdetails%7Corg.concordion%7Cconcordion-timestamp-formatter-extension%7C1.1.2%7Cjar).</a>
+
 # Introduction
 
 A simple extension that reformats the footer of the Concordion output to show hours, minutes and seconds rather than milliseconds.
