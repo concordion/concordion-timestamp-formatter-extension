@@ -14,12 +14,15 @@
  */
 package spec.concordion.ext.timestampFormatter;
 
+import org.concordion.api.extension.Extensions;
+import org.concordion.ext.TimestampFormatterExtension;
 import org.concordion.integration.junit4.ConcordionRunner;
 import org.junit.runner.RunWith;
 
 import test.concordion.TestRig;
 
 @RunWith(ConcordionRunner.class)
+@Extensions(TimestampFormatterExtension.class)
 public class TimestampFormatter {
     public void setSystemProperty(String name, String value) {
         System.setProperty(name, value);
